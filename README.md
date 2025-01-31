@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nathan / Brazilian / 20 years
+- 👋 Hi, I’m Nathan / Brazilian / 21 years
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on automation projects
+- 💞️ I’m looking to collaborate on automation and system projects
 - 📫 How to reach me @nathan.freitas373
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Wanted to dive into programming after my account get hacked...
